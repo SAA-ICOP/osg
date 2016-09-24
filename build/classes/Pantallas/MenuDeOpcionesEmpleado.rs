@@ -1,0 +1,8 @@
+pantallas.MenuDeOpcionesEmpleado$7
+pantallas.MenuDeOpcionesEmpleado$6
+pantallas.MenuDeOpcionesEmpleado$5
+pantallas.MenuDeOpcionesEmpleado
+pantallas.MenuDeOpcionesEmpleado$4
+pantallas.MenuDeOpcionesEmpleado$3
+pantallas.MenuDeOpcionesEmpleado$2
+pantallas.MenuDeOpcionesEmpleado$1

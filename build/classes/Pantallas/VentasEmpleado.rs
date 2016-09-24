@@ -1,0 +1,3 @@
+pantallas.VentasEmpleado
+pantallas.VentasEmpleado$1
+pantallas.VentasEmpleado$2

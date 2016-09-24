@@ -1,0 +1,2 @@
+pantallas.MenuDeOperacionesDiarias$1
+pantallas.MenuDeOperacionesDiarias
