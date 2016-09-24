@@ -24,6 +24,16 @@ public class SeguridadController {
         return guardado;
     }
 
+    public boolean guardarActualizarRol(Rol rol) throws Exception {
+        boolean guardado = new GestorRol().guardarOActualizar(rol);
+        return guardado;
+    }
+
+    public boolean guardarActualizarHabilidad(Habilidad habilidad) throws Exception {
+        boolean guardado = new GestorHabilidad().guardarOActualizar(habilidad);
+        return guardado;
+    }
+
     public List<Habilidad> listarHabilidades() throws Exception {
         List<Habilidad> habilidades = new GestorHabilidad().listarHabilidades();
         if (habilidades != null) {
